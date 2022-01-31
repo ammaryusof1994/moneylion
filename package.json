@@ -1,0 +1,19 @@
+{
+  "name": "moneylion",
+  "version": "1.0.0",
+  "description": "technical assessment by moneylion",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ammar",
+  "license": "ISC"
+}
